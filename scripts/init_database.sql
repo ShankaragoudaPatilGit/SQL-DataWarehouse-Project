@@ -31,7 +31,7 @@ GO
 USE DataWarehouse;
 GO
 
--- Create Schemas
+-- Create Schemas for each layers
 CREATE SCHEMA bronze;
 GO
 
